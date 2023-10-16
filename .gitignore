@@ -34,3 +34,5 @@
 *.hex
 *.pdsbak
 *.workspace
+
+.vscode/
